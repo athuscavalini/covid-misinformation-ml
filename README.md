@@ -1,4 +1,4 @@
-# covid-misinformation-ml
+# covid-misinformation-ML
 
 Classificação de mensagens contendo desinformação relacionadas à Covid-19.
 
